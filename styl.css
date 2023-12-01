@@ -1,0 +1,129 @@
+body{
+    background-color: black;
+}
+
+
+
+#zdj{
+    float: left;
+    height: 200px;
+    width: 10%;
+}
+
+#naglowek{
+    background-color: black;
+    font-family:'M PLUS 1', sans-serif;                                                                        
+    float: left;
+    width: 45%;
+    height: 10px;
+    text-align: left;
+    font-size: 30px;
+    line-height: 100px;
+    color: white;
+    letter-spacing: 2px;
+    margin-top: 20px;
+}
+
+#d{
+    text-decoration: none;
+}
+
+#sociale{
+    background-color: black;
+    font-family:'M PLUS 1', sans-serif;                                                                             
+    float: left;
+    width: 45%;
+    height: 200px;
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 250%;
+}
+
+#d,#s{
+    color:white;
+    font-size: 30px;
+    margin: 30px;
+    float: left;
+    padding: 30px;
+    
+}
+
+#db{
+    margin-left: 20px;
+}
+
+#s:hover, #d:hover{
+    color:yellow;
+}
+
+
+
+#konter{
+    background-color: rgba(240, 234, 228);
+    width: 100%;
+    float: left;
+    font-family:'M PLUS 1', sans-serif;
+    height: 100%;
+    
+}
+
+#f1,#f3,#f5,#f7,#f9,#f11,#f13,#f15{
+    text-align: center;
+    float: left;
+    padding-left: 120px;
+    padding-top: 50px;
+}
+
+#f2,#f4,#f6,#f8,#f10,#f12,#f14{
+    text-align: center;
+    float: right;
+    color: black;
+    padding-right: 120px;
+    padding-top: 50px;
+}
+
+
+#lukasz{
+    font-family:'M PLUS 1', sans-serif;
+    text-align: center;
+    float: left;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+
+#hubert{
+    font-family:'M PLUS 1', sans-serif;
+    text-align: center;
+    float: right;
+    padding-right: 200px;
+    padding-top: 50px;
+}
+
+#yt{
+    font-family:'M PLUS 1', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+#ty{
+    color: white;
+    
+}
+
+#in{
+    color: black;
+}
+
+#kontener{
+    background-color: rgba(240, 234, 228);
+    width: 100%;
+    float: left;
+    font-family:'M PLUS 1', sans-serif;
+    height: 500px; 
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+      
+
+
+  
